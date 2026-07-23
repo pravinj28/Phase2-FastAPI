@@ -1,0 +1,60 @@
+WARNING:root:Save me!
+2026-07-21 11:25:34 - WARNING - Save me!!
+2026-07-21 11:25:34 - WARNING - Save me!
+
+
+2026-07-21 11:30:14 - DEBUG - Pravin
+2026-07-21 11:30:14 - WARNING - Save me!!
+2026-07-21 11:38:42 - DEBUG - Avani Joshi
+2026-07-21 11:38:42 - ERROR - DonutCalculationError
+Traceback (most recent call last):
+  File "c:\Users\pjath\Desktop\FDE\Phase2-FastAPI\python_logging_practice.py", line 51, in <module>
+    donuts_per_guests = donuts/guests
+                        ~~~~~~^~~~~~~
+ZeroDivisionError: division by zero
+2026-07-21 15:04:22 - DEBUG - Avani Joshi
+2026-07-21 15:04:22 - ERROR - DonutCalculationError
+Traceback (most recent call last):
+  File "c:\Users\pjath\Desktop\FDE\Phase2-FastAPI\python_logging_practice.py", line 51, in <module>
+    donuts_per_guests = donuts/guests
+                        ~~~~~~^~~~~~~
+ZeroDivisionError: division by zero
+2026-07-21 15:04:22 - WARNING - Look at my Logger! 
+2026-07-21 15:04:31 - DEBUG - Avani Joshi
+2026-07-21 15:04:31 - ERROR - DonutCalculationError
+Traceback (most recent call last):
+  File "c:\Users\pjath\Desktop\FDE\Phase2-FastAPI\python_logging_practice.py", line 51, in <module>
+    donuts_per_guests = donuts/guests
+                        ~~~~~~^~~~~~~
+ZeroDivisionError: division by zero
+2026-07-21 15:04:31 - WARNING - Look at my Logger! 
+2026-07-21 15:06:31 - DEBUG - Avani Joshi
+2026-07-21 15:06:31 - ERROR - DonutCalculationError
+Traceback (most recent call last):
+  File "c:\Users\pjath\Desktop\FDE\Phase2-FastAPI\python_logging_practice.py", line 51, in <module>
+    donuts_per_guests = donuts/guests
+                        ~~~~~~^~~~~~~
+ZeroDivisionError: division by zero
+2026-07-21 15:06:31 - WARNING - Look at my Logger! 
+2026-07-21 15:20:59 - DEBUG - Avani Joshi
+2026-07-21 15:20:59 - ERROR - DonutCalculationError
+Traceback (most recent call last):
+  File "c:\Users\pjath\Desktop\FDE\Phase2-FastAPI\python_logging_practice.py", line 51, in <module>
+    donuts_per_guests = donuts/guests
+                        ~~~~~~^~~~~~~
+ZeroDivisionError: division by zero
+2026-07-21 15:21:26 - DEBUG - Avani Joshi
+2026-07-21 15:22:57 - DEBUG - Avani Joshi
+Watch out!
+2026-07-21 15:22:57 - WARNING - Watch out!
+2026-07-21 15:32:12 - DEBUG - Avani Joshi
+Stay calm!
+2026-07-21 15:32:12 - WARNING - Stay calm!
+2026-07-21 15:41:10 - DEBUG - Avani Joshi
+Stay calm!
+2026-07-21 15:41:10 - WARNING - Stay calm!
+2026-07-21 15:46:18 - DEBUG - Avani Joshi
+Stay calm!
+2026-07-21 15:46:18 - WARNING - Stay calm!
+Just checking in, again!
+2026-07-21 15:46:18 - INFO - Just checking in, again!
