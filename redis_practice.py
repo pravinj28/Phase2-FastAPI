@@ -103,3 +103,9 @@ print(r.scard("active_users:2026-07-21"))  # 2 not 3
 # Check if user is active
 print(r.sismember("active_users:2026-07-21", "user123"))  # True
 print(r.sismember("active_users:2026-07-21", "user999"))  # False
+
+pipe = r.pipeline()
+pipe.set("key1", "value1")
+pipe.set("key2", "value2")
+pipe.get("key1")
+pipe.execute()  # all 3 commands sent at once
